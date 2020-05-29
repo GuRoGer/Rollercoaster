@@ -1,2 +1,3 @@
 # Rollercoaster
-Added another line to Readme.md
+
+The new and awesome Coaster Experience starts Today!
