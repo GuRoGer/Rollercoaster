@@ -1,4 +1,5 @@
 # Rollercoaster
 
-This will be a nice Coaster
+
+The new and awesome Coaster Experience starts Today!
 
